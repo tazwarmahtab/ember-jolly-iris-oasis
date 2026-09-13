@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NEIA",
+      "hasCanvas": false,
+      "bodyTextLen": 6407,
+      "bodyTextHash": "76c5008912b7711fa2d78f5cfb0c1eab72c7fe83351962887b05c40ea25e642a",
+      "bodyTextPrefix": "N NEIA NETSO INTELLIGENCE Daily brief Source scout Assumption le",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NEIA",
+      "hasCanvas": false,
+      "bodyTextLen": 6238,
+      "bodyTextHash": "481e4037d752ae3f51041a4dcea1338d3aace30543d1f543e7fc67f6320b716c",
+      "bodyTextPrefix": "N NEIA NETSO ENERGY LIMITED · OPERATIONAL Daily intelligence 3 S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
